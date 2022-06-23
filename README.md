@@ -45,6 +45,14 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+## Output
+
+```bash
+<p align="center">
+<img src="ttps://user-images.githubusercontent.com/73419211/175359010-c1fa687e-c41c-4a3f-b708-d3fa5f132a81.PNG" alt="output nestjs graphql" width="420" />
+</p>
+```
+
 ## Test
 
 ```bash
